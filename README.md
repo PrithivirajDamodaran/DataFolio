@@ -1,5 +1,5 @@
 # DataFolio
-Prithivi's DataScience Portfolio - Under construction, please come back later !
+Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back later ! </i></b>
 
 <table>
    <tr>
