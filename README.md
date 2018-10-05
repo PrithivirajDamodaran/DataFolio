@@ -16,7 +16,7 @@ Prithivi's DataScience Portfolio
       <td>Kaggle Competition</td>
       <td>Movie Sentiment Review analysis</td>
       <td>http://bytecontinnum.com</td>
-      <td>FastText + Dilated Conv1D + CuDNNLSTM</td>
+      <td>FastText + ConvLSTM</td>
       <td>0.70172</td>
       <td>3rd</td>
    </tr>
