@@ -6,8 +6,7 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
       <td>#</td>
       <td>Project Type</td>
       <td>Project Description</td>
-      <td>Notebook Link</td>
-      <td>Technique/Library</td>
+      <td>Solution Link</td>
       <td>LB Score</td>
       <td>Rank</td>
    </tr>
@@ -15,8 +14,7 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
       <td>1</td>
       <td>Kaggle Competition</td>
       <td><a href ="https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only"> Movie Sentiment Review analysis </a> </td>
-      <td>Solution Notebook</td>
-      <td>FastText + ConvLSTM</td>
+      <td><a href="">Fasttext + BiLSTMCNN Notebook</a></td>
       <td>0.70172</td>
       <td>3rd</td>
    </tr>
