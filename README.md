@@ -16,7 +16,7 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
       <td>1</td>
       <td>Kaggle Competition</td>
       <td><a href ="https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only"> Movie Sentiment Review analysis </a> </td>
-      <td><a href="">Fasttext + BiLSTMCNN Notebook</a></td>
+      <td><a href="https://www.kaggle.com/prithiviraj/beginner-friendly-fastext-bilstmcnn-top-1">Fasttext + BiLSTMCNN Notebook</a></td>
       <td>0.70172</td>
       <td>3rd</td>
    </tr>
@@ -37,7 +37,14 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
    <tr>
       <td>#</td>
       <td>Snippet Description</td>
+      <td>Reference</td>
       <td>Language</td>
+   </tr>
+    <tr>
+      <td>1</td>
+      <td>Grid Search features for a CatBoost Regressor</td>
+      <td>Ref</td>
+      <td>Python</td>
    </tr>
    
   </table>
