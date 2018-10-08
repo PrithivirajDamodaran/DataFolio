@@ -1,6 +1,8 @@
 # DataFolio
+
 Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back later ! </i></b>
 
+<h3> Solution notebook </h3>
 <table>
    <tr>
       <td>#</td>
@@ -28,3 +30,14 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
 
    </tr>
 </table>
+
+<h3> Code snippets </h3>
+
+<table>
+   <tr>
+      <td>#</td>
+      <td>Snippet Description</td>
+      <td>Language</td>
+   </tr>
+   
+  </table>
