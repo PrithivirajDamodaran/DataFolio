@@ -25,6 +25,6 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
       <td>http://bytecontinnum.com</td>
       <td>T1</td>
       <td>NA</td>
-      <td>NA</td>
+
    </tr>
 </table>
