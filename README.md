@@ -14,8 +14,8 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
    <tr>
       <td>1</td>
       <td>Kaggle Competition</td>
-      <td>Movie Sentiment Review analysis</td>
-      <td>http://bytecontinnum.com</td>
+      <td><a href ="https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only"> Movie Sentiment Review analysis </a> </td>
+      <td>Solution Notebook</td>
       <td>FastText + ConvLSTM</td>
       <td>0.70172</td>
       <td>3rd</td>
