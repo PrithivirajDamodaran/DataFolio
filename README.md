@@ -30,15 +30,7 @@ Prithivi's DataScience Portfolio
       <td>N/A</td>
    </tr>
    
-   <tr>
-      <td>2</td>
-      <td>EDA</td>
-      <td>Movie Sentiment Review analysis</td>
-      <td>http://bytecontinnum.com</td>
-      <td>T1</td>
-      <td>NA</td>
-
-   </tr>
+ 
 </table>
 
 
@@ -55,7 +47,7 @@ Prithivi's DataScience Portfolio
     <tr>
       <td>1</td>
       <td>Grid Search features for a CatBoost Regressor</td>
-      <td>Ref</td>
+      <td>WIP</td>
       <td>Python</td>
    </tr>
    
