@@ -1,6 +1,6 @@
 # DataFolio
 
-Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back later ! </i></b>
+Prithivi's DataScience Portfolio
 
 <h3> Solution notebook </h3>
 <table>
