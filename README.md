@@ -20,6 +20,16 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
       <td>0.70172</td>
       <td>3rd</td>
    </tr>
+   
+   <tr>
+      <td>1</td>
+      <td>Kaggle Playground</td>
+      <td><a href ="https://www.kaggle.com/c/donorschoose-application-screening"> DonorsChoose.org Application Screening </a> </td>
+      <td><a href="https://www.kaggle.com/prithiviraj/for-beginners-tfidf-logistic-regression">TfIdf + Log Regression Notebook</a></td>
+      <td>0.7721</td>
+      <td>3rd</td>
+   </tr>
+   
    <tr>
       <td>2</td>
       <td>EDA</td>
@@ -30,6 +40,8 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
 
    </tr>
 </table>
+
+
 
 <h3> Code snippets </h3>
 
