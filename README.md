@@ -14,7 +14,7 @@ Prithivi's DataScience Portfolio
    </tr>
    <tr>
       <td>1</td>
-      <td>Kaggle Competition</td>
+      <td>Kaggle Playground</td>
       <td><a href ="https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only"> Movie Sentiment Review analysis </a> </td>
       <td><a href="https://www.kaggle.com/prithiviraj/beginner-friendly-fastext-bilstmcnn-top-1">Fasttext + BiLSTMCNN Notebook</a></td>
       <td>0.70172</td>
