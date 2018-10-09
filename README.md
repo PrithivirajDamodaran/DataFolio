@@ -35,7 +35,7 @@ Prithivi's DataScience Portfolio
 
 
 
-<h3> Code snippets </h3>
+<h3> Code snippets - WIP </h3>
 
 <table>
    <tr>
@@ -47,7 +47,7 @@ Prithivi's DataScience Portfolio
     <tr>
       <td>1</td>
       <td>Grid Search features for a CatBoost Regressor</td>
-      <td>WIP</td>
+      <td>Ref</td>
       <td>Python</td>
    </tr>
    
