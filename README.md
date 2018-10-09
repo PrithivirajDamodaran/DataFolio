@@ -2,7 +2,7 @@
 
 Prithivi's DataScience Portfolio
 
-<h3> Solution notebook </h3>
+<h3> Projects with code notebooks </h3>
 <table>
    <tr>
       <td>#</td>
