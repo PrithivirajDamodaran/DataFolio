@@ -22,7 +22,7 @@ Prithivi's DataScience Portfolio
    </tr>
    
    <tr>
-      <td>1</td>
+      <td>2</td>
       <td>Kaggle Playground</td>
       <td><a href ="https://www.kaggle.com/c/donorschoose-application-screening"> DonorsChoose.org Application Screening </a> </td>
       <td><a href="https://www.kaggle.com/prithiviraj/for-beginners-tfidf-logistic-regression">TfIdf + Log Regression Notebook</a></td>
