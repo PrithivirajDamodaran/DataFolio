@@ -27,7 +27,7 @@ Prithivi's DataScience Portfolio - <b> <i> Under construction, please come back 
       <td><a href ="https://www.kaggle.com/c/donorschoose-application-screening"> DonorsChoose.org Application Screening </a> </td>
       <td><a href="https://www.kaggle.com/prithiviraj/for-beginners-tfidf-logistic-regression">TfIdf + Log Regression Notebook</a></td>
       <td>0.7721</td>
-      <td>3rd</td>
+      <td>N/A</td>
    </tr>
    
    <tr>
