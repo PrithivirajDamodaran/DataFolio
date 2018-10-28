@@ -7,6 +7,7 @@ Prithivi's DataScience Portfolio
    <tr>
       <td>#</td>
       <td>Project Type</td>
+       <td>ML/DL Domain</td>
       <td>Project Description</td>
       <td>Solution Link</td>
       <td>LB Score</td>
@@ -15,6 +16,7 @@ Prithivi's DataScience Portfolio
    <tr>
       <td>1</td>
       <td>Kaggle Playground</td>
+      <td>NLP</td>
       <td><a href ="https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only"> Movie Sentiment Review analysis </a> </td>
       <td><a href="https://www.kaggle.com/prithiviraj/beginner-friendly-fastext-bilstmcnn-top-1">Fasttext + BiLSTMCNN Notebook</a></td>
       <td>0.70172</td>
@@ -24,6 +26,7 @@ Prithivi's DataScience Portfolio
    <tr>
       <td>2</td>
       <td>Kaggle Playground</td>
+      <td>NLP++</td>
       <td><a href ="https://www.kaggle.com/c/donorschoose-application-screening"> DonorsChoose.org Application Screening </a> </td>
       <td><a href="https://www.kaggle.com/prithiviraj/for-beginners-tfidf-logistic-regression">TfIdf + Log Regression Notebook</a></td>
       <td>0.7721</td>
