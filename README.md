@@ -33,6 +33,17 @@ Prithivi's DataScience Portfolio
       <td>N/A</td>
    </tr>
    
+    <tr>
+      <td>2</td>
+      <td>Kaggle Playground</td>
+      <td>NLP++</td>
+      <td><a href ="https://www.kaggle.com/c/whats-cooking"> What's Cooking </a> </td>
+      <td><a href="https://github.com/PrithivirajDamodaran/NLP-Python"> LSTM + CNN Notebook</a></td>
+      <td>0.75</td>
+      <td>N/A</td>
+   </tr>
+   
+  
  
 </table>
 
