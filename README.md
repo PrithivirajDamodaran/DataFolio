@@ -33,7 +33,7 @@ Prithivi's DataScience Portfolio
       <td>N/A</td>
    </tr>
    
-    <tr>
+   <tr>
       <td>3</td>
       <td>Kaggle Playground</td>
       <td>NLP++</td>
