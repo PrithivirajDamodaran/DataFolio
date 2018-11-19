@@ -42,8 +42,20 @@ Prithivi's DataScience Portfolio
       <td>0.75</td>
       <td>N/A</td>
    </tr>
+   
+      <tr>
+      <td>3</td>
+      <td>Other</td>
+      <td>Regression/Time Series</td>
+      <td><a href ="https://docs.google.com/presentation/d/1AtlsL4eV2MOAuJWjcPNVPsEYrUSg1ELUc2ytQj3l51E/edit?usp=sharing"> Airport Taxi Demand Forecast </a> </td>
+      <td><a href= "https://github.com/PrithivirajDamodaran/AirportTaxiDemandPrediction"> Scikit Notebook</a></td>
+      <td>NA</td>
+      <td>N/A</td>
+   </tr>
+
  
 </table>
+
 
 
 
