@@ -44,7 +44,7 @@ Prithivi's DataScience Portfolio
    </tr>
    
    <tr>
-   <td>3</td>
+   <td>4</td>
    <td>Other</td>
    <td>Regression/Time Series</td>
    <td><a href ="https://docs.google.com/presentation/d/1AtlsL4eV2MOAuJWjcPNVPsEYrUSg1ELUc2ytQj3l51E/edit?usp=sharing"> Airport Taxi Demand Forecast </a> </td>
@@ -52,6 +52,20 @@ Prithivi's DataScience Portfolio
    <td>NA</td>
    <td>N/A</td>
    </tr>
+   
+   
+    <tr>
+   <td>5</td>
+   <td>Other</td>
+   <td>Regression</td>
+   <td><a href ="https://github.com/PrithivirajDamodaran/IndeedSalaryPrediction"> Indeed Salary Prediction </a> </td>
+   <td><a href= "https://github.com/PrithivirajDamodaran/AirportTaxiDemandPrediction"> LightGBM Notebook</a></td>
+   <td>NA</td>
+   <td>N/A</td>
+   </tr>
+   
+   
+
 
  
 </table>
