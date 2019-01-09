@@ -1,30 +1,8 @@
+<link href="style.css" rel="stylesheet"></link> 
+
 # DataFolio
 
 Prithivi's DataScience Portfolio
-
-<html>
-   <head>
-      <style>
-         @breakpoint: 500px;
-
-/* Responsive
-==================================== */
-@media all and (max-width: @breakpoint) {
-  .Rtable--collapse  {
-    display: block;
-    > .Rtable-cell { width: 100% !important; }
-    > .Rtable-cell--foot { margin-bottom: 1em; }
-  }
-}
-
-// Non-Flex modernizer fallback
-.no-flexbox .Rtable {
-  display: block;
-  > .Rtable-cell { width: 100%; }
-  > .Rtable-cell--foot { margin-bottom: 1em; }
-}
-</style>
-</head>
 
 <h3> Projects with code notebooks </h3>
 <div class="Rtable Rtable--2cols Rtable--collapse">
@@ -116,4 +94,4 @@ Prithivi's DataScience Portfolio
    </tr>
    
   </table>
-</html>
+
