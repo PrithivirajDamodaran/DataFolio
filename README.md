@@ -59,7 +59,7 @@ Prithivi's DataScience Portfolio
    <td>5</td>
    <td>Other</td>
    <td>Regression</td>
-   <td><a href ="https://github.com/PrithivirajDamodaran/IndeedSalaryPrediction"> Indeed Salary Prediction </a> </td>
+   <td><a href ="https://github.com/PrithivirajDamodaran/IndeedSalaryPrediction">Salary Prediction </a> </td>
    <td><a href= "https://github.com/PrithivirajDamodaran/IndeedSalaryPrediction/blob/master/Indeed%20salary%20prediction.ipynb"> LightGBM Notebook</a></td>
    <td>NA</td>
    <td>N/A</td>
