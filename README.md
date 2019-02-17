@@ -69,8 +69,8 @@ Prithivi's DataScience Portfolio
    <td>6</td>
    <td>Other</td>
    <td>NLP / Sequence Modelling</td>
-   <td>Was wondering about the Many to One style sequence modelling capabilities of RNN: Just wanted to see if we can predict the numerical hour from timings mentioned as text somehwere in the input setnence. (Works surprisingly well !) </td>
-   <td><a href= "https://colab.research.google.com/drive/1JmTiDyo9gjrWFMRxoCJthp1UETlajaIa">BiLSTM Notebook</a></td>
+   <td>Putting N:1 sequence modelling to the test: Wanted to see if we can predict the numerical hour from timings mentioned as text somehwere in the input setnence. (Works surprisingly well !) </td>
+   <td><a href= "https://colab.research.google.com/drive/1JmTiDyo9gjrWFMRxoCJthp1UETlajaIa">BiLSTM Colab Notebook</a></td>
    <td>NA</td>
    <td>N/A</td>
    </tr>
