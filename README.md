@@ -65,7 +65,7 @@ Prithivi's DataScience Portfolio
    <td>N/A</td>
    </tr>
    
-      <tr>
+    <tr>
    <td>6</td>
    <td>Other</td>
    <td>NLP / Sequence Modelling</td>
