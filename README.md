@@ -80,7 +80,7 @@ Prithivi's DataScience Portfolio
    <td>EDA</td>
    <td>NA</td>
    <td>Global Suicidal Rates</td>
-   <td><a href= "https://github.com/PrithivirajDamodaran/IndeedSalaryPrediction/blob/master/Indeed%20salary%20prediction.ipynb"> LightGBM Notebook</a></td>
+   <td><a href= "https://nbviewer.jupyter.org/github/PrithivirajDamodaran/NLP-Python/blob/master/SuicideRatesEDA.ipynb"> Python Notebook</a></td>
    <td>NA</td>
    <td>N/A</td>
    </tr>
