@@ -16,7 +16,7 @@ Prithivi's DataScience Portfolio
    </tr>
    <tr>
       <td>1</td>
-      <td>Kaggle Playground</td>
+      <td>Kaggle</td>
       <td>NLP</td>
       <td><a href ="https://www.kaggle.com/c/movie-review-sentiment-analysis-kernels-only"> Movie Sentiment Review analysis </a> </td>
       <td><a href="https://www.kaggle.com/prithiviraj/beginner-friendly-fastext-bilstmcnn-top-1">Fasttext + BiLSTMCNN Notebook</a></td>
@@ -26,7 +26,7 @@ Prithivi's DataScience Portfolio
    
    <tr>
       <td>2</td>
-      <td>Kaggle Playground</td>
+      <td>Kaggle</td>
       <td>NLP++</td>
       <td><a href ="https://www.kaggle.com/c/donorschoose-application-screening"> DonorsChoose.org Application Screening </a> </td>
       <td><a href="https://www.kaggle.com/prithiviraj/for-beginners-tfidf-logistic-regression">TfIdf + Log Regression Notebook</a></td>
@@ -36,7 +36,7 @@ Prithivi's DataScience Portfolio
    
    <tr>
       <td>3</td>
-      <td>Kaggle Playground</td>
+      <td>Kaggle</td>
       <td>NLP</td>
       <td><a href ="https://www.kaggle.com/c/whats-cooking"> Whats Cooking </a> </td>
       <td><a href= "https://www.kaggle.com/prithiviraj/cooking-dl-notebook"> LSTM + CNN Notebook</a></td>
@@ -71,6 +71,16 @@ Prithivi's DataScience Portfolio
    <td>NLP / Sequence Modelling</td>
    <td>Putting N:1 sequence modelling to the test: Wanted to see if we can predict the numerical hour from timings mentioned as text somehwere in the input setnence. (Works surprisingly well !) </td>
    <td><a href= "https://colab.research.google.com/drive/1JmTiDyo9gjrWFMRxoCJthp1UETlajaIa">BiLSTM Colab Notebook</a></td>
+   <td>NA</td>
+   <td>N/A</td>
+   </tr>
+   
+   <tr>
+   <td>6</td>
+   <td>EDA</td>
+   <td>NA</td>
+   <td>Global Suicidal Rates</td>
+   <td><a href= "https://github.com/PrithivirajDamodaran/IndeedSalaryPrediction/blob/master/Indeed%20salary%20prediction.ipynb"> LightGBM Notebook</a></td>
    <td>NA</td>
    <td>N/A</td>
    </tr>
