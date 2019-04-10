@@ -86,7 +86,7 @@ Prithivi's DataScience Portfolio
    </tr>
    
    
-    <tr>
+   <tr>
    <td>8</td>
    <td>Other</td>
    <td>NLP / Neural Sequence Modelling</td>
