@@ -85,6 +85,17 @@ Prithivi's DataScience Portfolio
    <td>N/A</td>
    </tr>
    
+   
+    <tr>
+   <td>7</td>
+   <td>Other</td>
+   <td>NA</td>
+   <td>Deduplicate postal address pairs without Address normalisation</td>
+   <td><a href= "https://colab.research.google.com/drive/1WLu-M5VolsRglJj4_8iZhmR9cFEGv5RU"> Python Notebook</a></td>
+   <td>NA</td>
+   <td>N/A</td>
+   </tr>
+   
 
    
    
