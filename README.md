@@ -68,7 +68,7 @@ Prithivi's DataScience Portfolio
    <tr>
    <td>6</td>
    <td>Other</td>
-   <td>NLP / Sequence Modelling</td>
+   <td>NLP / Neural Sequence Modelling</td>
    <td>Putting N:1 sequence modelling to the test: Wanted to see if we can predict the numerical hour from timings mentioned as text somehwere in the input setnence. (Works surprisingly well !) </td>
    <td><a href= "https://colab.research.google.com/drive/1JmTiDyo9gjrWFMRxoCJthp1UETlajaIa">BiLSTM Colab Notebook</a></td>
    <td>NA</td>
@@ -89,7 +89,7 @@ Prithivi's DataScience Portfolio
     <tr>
    <td>7</td>
    <td>Other</td>
-   <td>NA</td>
+   <td>NLP / Neural Sequence Modelling</td>
    <td>Deduplicate postal address pairs without Address normalisation</td>
    <td><a href= "https://colab.research.google.com/drive/1WLu-M5VolsRglJj4_8iZhmR9cFEGv5RU"> Python Notebook</a></td>
    <td>NA</td>
