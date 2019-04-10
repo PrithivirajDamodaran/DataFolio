@@ -76,7 +76,7 @@ Prithivi's DataScience Portfolio
    </tr>
    
    <tr>
-   <td>6</td>
+   <td>7</td>
    <td>EDA</td>
    <td>NA</td>
    <td>Global Suicidal Rates</td>
@@ -87,7 +87,7 @@ Prithivi's DataScience Portfolio
    
    
     <tr>
-   <td>7</td>
+   <td>8</td>
    <td>Other</td>
    <td>NLP / Neural Sequence Modelling</td>
    <td>Deduplicate postal address pairs without Address normalisation</td>
