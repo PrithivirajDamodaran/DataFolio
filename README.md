@@ -99,6 +99,17 @@ Prithivi's ML/DL Portfolio
    <td>N/A</td>
    </tr>
    
+   <tr>
+   <td>9</td>
+   <td>Other</td>
+   <td>Machine Tranlation - Encoder Decoder without Attention</td>
+   <td>Sequence modelling (n:n) - Encoder Decoder.</td>
+   <td><a href= "https://nbviewer.jupyter.org/github/PrithivirajDamodaran/NLP-Experiments/blob/master/Seq%20Models/EncoderDecoder-BiLSTM.ipynb"</a> Python Notebook </td>
+   <td>NA</td>
+   <td>N/A</td>
+   </tr>
+
+   
  
 </table>
 
