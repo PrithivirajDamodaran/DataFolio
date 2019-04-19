@@ -1,6 +1,6 @@
 # DataFolio
 
-Prithivi's DataScience Portfolio
+Prithivi's ML/DL Portfolio
 
 <h3> Projects with code notebooks </h3>
 
@@ -61,16 +61,6 @@ Prithivi's DataScience Portfolio
    <td>Regression</td>
    <td><a href ="https://github.com/PrithivirajDamodaran/IndeedSalaryPrediction">Salary Prediction </a> </td>
    <td><a href= "https://github.com/PrithivirajDamodaran/IndeedSalaryPrediction/blob/master/Indeed%20salary%20prediction.ipynb"> LightGBM Notebook</a></td>
-   <td>NA</td>
-   <td>N/A</td>
-   </tr>
-   
-   <tr>
-   <td>6</td>
-   <td>Other</td>
-   <td>NLP / Neural Sequence Modelling</td>
-   <td>Sequence modelling (n:1) : Predict the numerical hour from timings mentioned in longer sentences.</td>
-   <td><a href= "https://nbviewer.jupyter.org/github/PrithivirajDamodaran/NLP-Experiments/blob/master/Seq%20Models/Sequence_based_Text_Classification_.ipynb"</a></td>
    <td>NA</td>
    <td>N/A</td>
    </tr>
