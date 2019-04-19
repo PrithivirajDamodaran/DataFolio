@@ -69,8 +69,8 @@ Prithivi's DataScience Portfolio
    <td>6</td>
    <td>Other</td>
    <td>NLP / Neural Sequence Modelling</td>
-   <td>Putting N:1 sequence modelling to the test: Wanted to see if we can predict the numerical hour from timings mentioned as text somehwere in the input setnence. (Works surprisingly well !) </td>
-   <td><a href= "https://colab.research.google.com/drive/1JmTiDyo9gjrWFMRxoCJthp1UETlajaIa">BiLSTM Colab Notebook</a></td>
+   <td>Sequence modelling (n:1) : Wanted to see if we can predict the numerical hour from timings mentioned as text somehwere in the input setnence. (Works surprisingly well !) </td>
+   <td><a href= "https://nbviewer.jupyter.org/github/PrithivirajDamodaran/NLP-Experiments/blob/master/Seq%20Models/Sequence_based_Text_Classification_.ipynb"</a></td>
    <td>NA</td>
    <td>N/A</td>
    </tr>
