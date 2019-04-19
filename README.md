@@ -66,7 +66,7 @@ Prithivi's ML/DL Portfolio
    </tr>
    
    <tr>
-   <td>7</td>
+   <td>6</td>
    <td>EDA</td>
    <td>NA</td>
    <td>Global Suicidal Rates</td>
@@ -77,7 +77,7 @@ Prithivi's ML/DL Portfolio
    
    
    <tr>
-   <td>8</td>
+   <td>7</td>
    <td>Other</td>
    <td>NLP / Neural Sequence Modelling</td>
    <td>Deduplicate postal address pairs without Address normalisation</td>
@@ -85,6 +85,18 @@ Prithivi's ML/DL Portfolio
    <td>NA</td>
    <td>N/A</td>
    </tr>
+   
+   <tr>
+   <td>8</td>
+   <td>Other</td>
+   <td>NLP / Neural Sequence Modelling</td>
+   <td>Sequence modelling (n:1) : Predict the numerical hour from timings mentioned in longer sentences.</td>
+   <td><a href= "https://nbviewer.jupyter.org/github/PrithivirajDamodaran/NLP-Experiments/blob/master/Seq%20Models/Sequence_based_Text_Classification_.ipynb"</a></td>
+   <td>NA</td>
+   <td>N/A</td>
+   </tr>
+   
+
    
 
    
