@@ -82,7 +82,7 @@ Prithivi's ML/DL Portfolio
    <tr>
    <td>7</td>
    <td>Other</td>
-   <td>NLP / Neural Sequence Modelling</td>
+   <td>NLP</td>
    <td>Deduplicate postal address pairs without Address normalisation</td>
    <td><a href= "https://colab.research.google.com/drive/1WLu-M5VolsRglJj4_8iZhmR9cFEGv5RU"> Python Notebook</a></td>
    <td>NA</td>
@@ -92,7 +92,7 @@ Prithivi's ML/DL Portfolio
    <tr>
    <td>8</td>
    <td>Other</td>
-   <td>NLP / Neural Sequence Modelling</td>
+   <td>NLP</td>
    <td>Sequence modelling (n:1) : Predict the numerical hour from timings mentioned in longer sentences.</td>
    <td><a href= "https://nbviewer.jupyter.org/github/PrithivirajDamodaran/NLP-Experiments/blob/master/Seq%20Models/Sequence_based_Text_Classification_.ipynb"</a> Python Notebook </td>
    <td>NA</td>
@@ -102,8 +102,8 @@ Prithivi's ML/DL Portfolio
    <tr>
    <td>9</td>
    <td>Other</td>
-   <td>Machine Tranlation - Encoder Decoder without Attention</td>
-   <td>Sequence modelling (n:n) - Encoder Decoder.</td>
+   <td>NLP</td>
+   <td>Machine Tranlation - Encoder Decoder without Attention.</td>
    <td><a href= "https://nbviewer.jupyter.org/github/PrithivirajDamodaran/NLP-Experiments/blob/master/Seq%20Models/EncoderDecoder-BiLSTM.ipynb"</a> Python Notebook </td>
    <td>NA</td>
    <td>N/A</td>
