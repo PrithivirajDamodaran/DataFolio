@@ -91,18 +91,11 @@ Prithivi's ML/DL Portfolio
    <td>Other</td>
    <td>NLP / Neural Sequence Modelling</td>
    <td>Sequence modelling (n:1) : Predict the numerical hour from timings mentioned in longer sentences.</td>
-   <td><a href= "https://nbviewer.jupyter.org/github/PrithivirajDamodaran/NLP-Experiments/blob/master/Seq%20Models/Sequence_based_Text_Classification_.ipynb"</a></td>
+   <td><a href= "https://nbviewer.jupyter.org/github/PrithivirajDamodaran/NLP-Experiments/blob/master/Seq%20Models/Sequence_based_Text_Classification_.ipynb"</a> Python Notebook </td>
    <td>NA</td>
    <td>N/A</td>
    </tr>
    
-
-   
-
-   
-   
-
-
  
 </table>
 
