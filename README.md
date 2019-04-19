@@ -4,6 +4,9 @@ Prithivi's ML/DL Portfolio
 
 <h3> Projects with code notebooks </h3>
 
+<div style="overflow-x:auto;">
+
+
 <table>
    <tr>
       <td>#</td>
@@ -99,10 +102,12 @@ Prithivi's ML/DL Portfolio
  
 </table>
 
+</div>
 
 
 
-<h3> Code snippets - WIP </h3>
+
+<h3> Code snippets - Work In Progress </h3>
 
 <table>
    <tr>
